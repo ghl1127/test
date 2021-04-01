@@ -33,7 +33,8 @@ int main()
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-## [Picture of a git application example](https://img2.baidu.com/it/u=2921349435,3630041226&fm=15&fmt=auto&gp=0.jpg)
+## [Picture of a git application example of the directory](git.jpg)
+## [Picture of a git application example](https://img2.baidu.com/it/u=3226249199,4001581726&fm=26&fmt=auto&gp=0.jpg)
 
 ##  [What is Makedown?](README.md)
 
