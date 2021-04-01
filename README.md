@@ -6,6 +6,6 @@
 * &#160;&#160;&#160;&#160;&#160;&#160;For instance, to denote a heading, you add a number sign before it. Or to make a phrase bold, you add two asterisks before and after it . It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications. The screenshot below shows a Markdown file displayed in the Atom text editor.
 
 
-## [The Picture Of Markdown](https://img1.baidu.com/it/u=3432659189,449441210&fm=26&fmt=auto&gp=0.jpg)
+## [Picture of a markdown application example](https://img2.baidu.com/it/u=3343777370,1708636366&fm=26&fmt=auto&gp=0.jpg)
 
 ##  [What is Git?](second.md)
