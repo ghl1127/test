@@ -41,8 +41,8 @@ int main()
 
 >Some related pictures
 
-## [Picture of a markdown application example of the directory](makedown.jpg)
-## [Picture of a markdown application example of web](https://img2.baidu.com/it/u=3211231239,1842853752&fm=26&fmt=auto&gp=0.jpg)
+## [Image of a markdown application example of the directory](makedown.jpg)
+## [Image of a markdown application example of web](https://img2.baidu.com/it/u=3211231239,1842853752&fm=26&fmt=auto&gp=0.jpg)
 
 ##  [What is Git?](second.md)
 
