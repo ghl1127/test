@@ -18,16 +18,6 @@
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
-####  Makedown grammer
-| Common grammer | Detailed explanation | Shortcut key 
-|----------------:|-----------------:|--------:|
-| *Italics* | none | Ctrl+I |
-| **bold** | none | Ctrl+B |
-| #First level title | Add a space after # | none |
-| ##Secondary title | By analogy, the three-level titles are three "#" | none |
-
-
-----------------------------------------------------------------------------------------------------------------------------------
 #### A code block
  
 ```
@@ -45,3 +35,5 @@ int main()
 ## [Picture of a git application example](https://img2.baidu.com/it/u=2921349435,3630041226&fm=15&fmt=auto&gp=0.jpg)
 
 ##  [What is Makedown?](README.md)
+
+>Have a good time!
