@@ -5,6 +5,6 @@
 * &#160;&#160;&#160;&#160;&#160;&#160;GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
 * &#160;&#160;&#160;&#160;&#160;&#160;GitHub is not the only Git hosting available. Another host is Bitbucket from Atlassian. But, GitHub is the most popular and well known Git hosting service.
 
-## [The Picture Of Git](https://img2.baidu.com/it/u=3871061730,4117814274&fm=26&fmt=auto&gp=0.jpg)
+## [Picture of a git application example](https://img2.baidu.com/it/u=2921349435,3630041226&fm=15&fmt=auto&gp=0.jpg)
 
 ##  [What is Makedown?](README.md)
