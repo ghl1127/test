@@ -8,10 +8,13 @@
 * &#160;&#160;&#160;&#160;&#160;&#160;*GitHub is not the only Git hosting available. Another host is Bitbucket from Atlassian. But, GitHub is the most popular and well known Git hosting service.*
 
 ----------------------------------------------------------------------------------------------------------------------------------
-#### Markdown application scenarios
-1. &#160;&#160;&#160;&#160;&#160;&#160;*programmer. It is used to write technical documents, record technical codes, describe project functions, etc. as mentioned above, markdown can track the historical status, which is very convenient for internal personnel to communicate with each other.*
-2. &#160;&#160;&#160;&#160;&#160;&#160;*Researchers or students. It is used to write papers, blog posts, take notes, etc. now most web sites or software editors also support the markdown function. You can see the effect directly by writing on the left and on the right, so that they can write more quickly. It should be noted that most web sites or software support the basic syntax of markdown, but the support of some extended syntax is different.*
-3. &#160;&#160;&#160;&#160;&#160;&#160;*Job seekers. Used to create a resume. Especially for those who are engaged in it work, the resume made with markdown will be more popular with recruiters.*
+#### Git common commands
+1. &#160;&#160;&#160;&#160;&#160;&#160;*git branch 查看本地所有分支*
+2. &#160;&#160;&#160;&#160;&#160;&#160;*git status 查看当前状态* 
+3. &#160;&#160;&#160;&#160;&#160;&#160;*git commit 提交*
+4. &#160;&#160;&#160;&#160;&#160;&#160;*git branch -a 查看所有的分支*
+5. &#160;&#160;&#160;&#160;&#160;&#160;*git branch -r 查看远程所有分支*
+6. &#160;&#160;&#160;&#160;&#160;&#160;*git commit -am "init" 提交并且加注释*
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
