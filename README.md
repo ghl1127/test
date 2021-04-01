@@ -11,7 +11,13 @@
 2. &#160;&#160;&#160;&#160;&#160;&#160;*Researchers or students. It is used to write papers, blog posts, take notes, etc. now most web sites or software editors also support the markdown function. You can see the effect directly by writing on the left and on the right, so that they can write more quickly. It should be noted that most web sites or software support the basic syntax of markdown, but the support of some extended syntax is different.*
 3. &#160;&#160;&#160;&#160;&#160;&#160;*Job seekers. Used to create a resume. Especially for those who are engaged in it work, the resume made with markdown will be more popular with recruiters.*
 
-
+####  Makedown grammer
+| Common grammer | Detailed explanation | Shortcut key 
+|----------------:|-----------------:|--------:|
+| *Italics* | none | Ctrl+I |
+| **bold** | none | Ctrl+B |
+| #First level title | Add a space after # | none |
+| ##Secondary title | By analogy, the three-level titles are three "#" | none |
 
 ## [Picture of a markdown application example](https://img2.baidu.com/it/u=3343777370,1708636366&fm=26&fmt=auto&gp=0.jpg)
 
